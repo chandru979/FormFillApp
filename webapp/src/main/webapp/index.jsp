@@ -5,11 +5,11 @@
     <hr>
     <br>
 
-    <label for="name"><b>Email</b></label>
+    <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
-    <label for="age"><b>Email</b></label>
+    <label for="age"><b>age</b></label>
     <input type="text" placeholder="Enter age" name="age" id="age" required>
     <br>
 
